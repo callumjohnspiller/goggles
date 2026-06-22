@@ -35,5 +35,10 @@ $discard,site=de.semrush.com
 $discard,site=whocallme.co.uk
 $discard,site=sync.me
 $discard,site=connection-technologies.co.uk
+$discard,site=area-codes.org.uk
+$discard,site=geopunk.co.uk
+$discard,site=flextel.com
+$discard,site=www.bws.net
+$discard,site=simple.wikipedia.org/wiki/List_of_dialling_codes_in_the_United_Kingdom
 |https://community.$discard
 |http://community.$discard
