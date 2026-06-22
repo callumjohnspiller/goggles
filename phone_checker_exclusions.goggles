@@ -1,0 +1,38 @@
+! name: Phone Checker Exclusions
+! description: Discards phone lookup sites
+! public: true
+
+$discard,site=who-called.co.uk
+$discard,site=findwhocallsyou.com
+$discard,site=phonely.co.uk
+$discard,site=unknownphone.com
+$discard,site=tellows.co.uk
+$discard,site=nimhe.org.uk
+$discard,site=whoiscallingyou.co.uk
+$discard,site=who-calls.me.uk
+$discard,site=whoscalled.co.uk
+$discard,site=telspy.org
+$discard,site=cleverdialer.co.uk
+$discard,site=callchecker.co.uk
+$discard,site=callfilter.app
+$discard,site=truecaller.com
+$discard,site=slick.ly
+$discard,site=who-calledme.com
+$discard,site=callapp.com
+$discard,site=tellows.com
+$discard,site=180.se
+$discard,site=180.fi
+$discard,site=shouldianswer.co.uk
+$discard,site=uk.junkcall.org
+$discard,site=whocallsme.com
+$discard,site=whosringing.co.uk
+$discard,site=telno-uk.com
+$discard,site=phonenumbers.ie
+$discard,site=base.ly
+$discard,site=semrush.com
+$discard,site=de.semrush.com
+$discard,site=whocallme.co.uk
+$discard,site=sync.me
+$discard,site=connection-technologies.co.uk
+|https://community.$discard
+|http://community.$discard
