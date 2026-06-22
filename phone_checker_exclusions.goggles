@@ -1,6 +1,7 @@
 ! name: Phone Checker Exclusions
 ! description: Discards phone lookup sites
 ! public: true
+! author: Callum John Spiller
 
 $discard,site=who-called.co.uk
 $discard,site=findwhocallsyou.com
